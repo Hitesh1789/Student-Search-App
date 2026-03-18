@@ -82,12 +82,12 @@ Follow the steps below to run the project on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/Hitesh1789/Student-Search-App>
-cd student-search-app
+git clone https://github.com/Hitesh1789/Student-Search-App
+cd Student-Search-App
 ```
 ### 2. Environment variables
 This project uses .env files for configuration. There are sample files included as .env.sample in both frontend and backend.
-Create the real .env files from the samples
+Create the real .env files from the samples env files.
 
 ### 3. Open two terminals
 You will run backend and frontend in two separate terminals:
@@ -101,7 +101,7 @@ Terminal B → frontend
 Change to backend folder:
 
 ```bash
-cd backend
+cd Backend
 ```
 
 Install dependencies:
@@ -133,7 +133,7 @@ npm run dev
 
 Change to frontend folder:
 ```bash
-cd frontend
+cd Frontend
 ```
 Install dependencies:
 
